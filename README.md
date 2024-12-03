@@ -2,15 +2,12 @@
 
 A simple flutter app built for learning
 
-## Getting Started
+## Description:
 
-This project is a starting point for a Flutter application.
+In this app there are 7 keys to press and when pressed they each play a different note on a
+xylophone.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The goals of this project were to:
+- Understand how to use download and use flutter plugins to accomplish a complex task.
+- Use local asset files to play audio during a user interaction.
+- Better my understanding how dart functions and their variations.
